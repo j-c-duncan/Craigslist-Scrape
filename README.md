@@ -1,2 +1,2 @@
 # Craigslist-Scrape
-Craigslist scrape fro apartments in northern Virginia
+Craigslist scrape for apartments in northern Virginia
